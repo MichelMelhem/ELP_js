@@ -2,19 +2,197 @@
   {
     "motMystere": "Europe",
     "indices": [
-      "france",
-      "italie",
-      "belgique",
-      "hfhf",
-      "dd"
+      "saliut",
+      "qdq",
+      "sds"
     ],
     "indicesValides": [
-      "france",
-      "italie",
-      "belgique",
-      "hfhf",
-      "dd"
+      "saliut",
+      "qdq",
+      "sds"
     ],
-    "proposition": "europe"
+    "proposition": "sdsd"
+  },
+  {
+    "motMystere": "Cirque",
+    "indices": [
+      "dssd",
+      "sdsd",
+      "sd"
+    ],
+    "indicesValides": [
+      "dssd",
+      "sdsd",
+      "sd"
+    ],
+    "proposition": "sd"
+  },
+  {
+    "motMystere": "Virus",
+    "indices": [
+      "dssd",
+      "sdsd",
+      "sdsd"
+    ],
+    "indicesValides": [
+      "dssd"
+    ],
+    "proposition": "sdsd"
+  },
+  {
+    "motMystere": "Crocodile",
+    "indices": [
+      "dsdsds",
+      "sddss",
+      "sdsd"
+    ],
+    "indicesValides": [
+      "dsdsds",
+      "sddss",
+      "sdsd"
+    ],
+    "proposition": "sdsd"
+  },
+  {
+    "motMystere": "Moutarde",
+    "indices": [
+      "sdsd",
+      "sdsd",
+      "sdds"
+    ],
+    "indicesValides": [
+      "sdds"
+    ],
+    "proposition": "sd"
+  },
+  {
+    "motMystere": "Boussole",
+    "indices": [
+      "sdssd",
+      "dsds",
+      "sdsdds"
+    ],
+    "indicesValides": [
+      "sdssd",
+      "dsds",
+      "sdsdds"
+    ],
+    "proposition": "sds"
+  },
+  {
+    "motMystere": "Tempête",
+    "indices": [
+      "sdsd",
+      "dssd",
+      "dssd"
+    ],
+    "indicesValides": [
+      "sdsd"
+    ],
+    "proposition": "sdsds"
+  },
+  {
+    "motMystere": "Lanterne",
+    "indices": [
+      "",
+      "",
+      "sd"
+    ],
+    "indicesValides": [
+      "sd"
+    ],
+    "proposition": "sd"
+  },
+  {
+    "motMystere": "Pyramide",
+    "indices": [
+      "sd",
+      "ds",
+      "ds"
+    ],
+    "indicesValides": [
+      "sd"
+    ],
+    "proposition": "d"
+  },
+  {
+    "motMystere": "Savane",
+    "indices": [
+      "sd",
+      "s",
+      "d"
+    ],
+    "indicesValides": [
+      "sd",
+      "s",
+      "d"
+    ],
+    "proposition": "s"
+  },
+  {
+    "motMystere": "Astronaute",
+    "indices": [
+      "s",
+      "s",
+      "d"
+    ],
+    "indicesValides": [
+      "d"
+    ],
+    "proposition": "s"
+  },
+  {
+    "motMystere": "Cascade",
+    "indices": [
+      "sd",
+      "s",
+      ""
+    ],
+    "indicesValides": [
+      "sd",
+      "s",
+      ""
+    ],
+    "proposition": "s"
+  },
+  {
+    "motMystere": "Horizon",
+    "indices": [
+      "s",
+      "d",
+      ""
+    ],
+    "indicesValides": [
+      "s",
+      "d",
+      ""
+    ],
+    "proposition": "d"
+  },
+  {
+    "motMystere": "Moustique",
+    "indices": [
+      "s",
+      "s",
+      "d"
+    ],
+    "indicesValides": [
+      "d"
+    ],
+    "proposition": ""
+  },
+  {
+    "motMystere": "Dragon",
+    "indices": [
+      "s",
+      "sdsd",
+      ""
+    ],
+    "indicesValides": [
+      "s",
+      "sdsd",
+      ""
+    ],
+    "proposition": "dragon"
   }
 ]
