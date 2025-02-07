@@ -1,6 +1,5 @@
 const fs = require('fs');
 const readline = require('readline');
-const { exec } = require('child_process');
 
 const rl = readline.createInterface({
     input: process.stdin,
@@ -74,7 +73,7 @@ async function jouerTour() {
     fs.writeFileSync("propositions.json", JSON.stringify(propositions, null, 2));
     
     tour++;
-    if (tour < motsMystere.length) {
+    if (tour < motsMystere.length ) {
         await jouerTour();
     } else {
         console.log("\nPartie terminée !");
